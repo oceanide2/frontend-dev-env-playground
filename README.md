@@ -1,1 +1,1 @@
-# frontend-dev-env-playground
+# 프론트엔드 개발환경의 연습공간
